@@ -1,7 +1,8 @@
 # Scraping Protein Abundance along with Epidermodysplasia Verruciformis Mutation Effects
 
+<br>
 <p align="center">
-  <img src="images/banner.jpeg"/ width = 750>
+  <img src="images/banner.jpeg"/ width = 600>
 </p>
 <p align="center"><em>Source: pax-db.org</em></p>
 <br>
