@@ -1,0 +1,6 @@
+csv
+webdriver_manager
+selenium 
+time
+re
+os
