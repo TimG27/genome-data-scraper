@@ -5,7 +5,6 @@
   <img src="images/banner.jpeg"/ width = 600>
 </p>
 <p align="center"><em>Source: pax-db.org</em></p>
-<br>
 
 ## Overview
 This repository houses a pair of Python scripts designed to harness protein data from web sources. The first script is dedicated to the extraction of protein abundance averages, a crucial aspect of biological research, from the Database of Protein Abundance Averages Across All Three Domains of Life, commonly known as 'Pax-DB'. The second script in this repository is tailored for the extraction of mutation effects data associated with Epidermodysplasia Verruciformis (EV). This condition is characterized by its association with human papillomavirus (HPV) and its effect on the skin, often leading to wart-like growths. The data related to EV mutation effects is sourced directly from datasets maintained by Harvard Medical School (HMS). 
