@@ -53,7 +53,7 @@ python Epidermodysplasia_verruciformis.py
 <br>
 
 <p align="center">
-  <img src="images/abundance.gif"/ width = 750>
+  <img src="images/mutation.gif"/ width = 750>
 </p>
 <p align="center"><em>Working of the Epidermodysplasia_verruciformis.py script</em></p>
 <br>
