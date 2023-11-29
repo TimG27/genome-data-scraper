@@ -1,4 +1,4 @@
-# Scraping Protein Abundance along with Epidermodysplasia Verruciformis Mutation Effects
+# Web Scraping Protein Abundance and Epidermodysplasia Verruciformis Mutation Effects
 
 <br>
 <p align="center">
